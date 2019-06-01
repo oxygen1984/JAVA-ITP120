@@ -1,1 +1,1 @@
-# JAVA-ITP120
+# Beginner-java-programming
