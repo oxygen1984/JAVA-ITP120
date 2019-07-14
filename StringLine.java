@@ -22,7 +22,7 @@ public class StringLine {
     b.append(a);
     b.append(r);
     b.append(f);
-    b.indexOf(r);
+    System.out.println(b.indexOf(r));
     System.out.println(b.toString());
 
     }
